@@ -1,0 +1,19 @@
+
+  header,
+  footer {
+    background-color: darkblue; /* sets background color for header and footer */
+    color: white; /* sets text color to white */
+    text-align: center; 
+  }
+  
+  main {
+    display: flex; /* uses flexbox to layout the children elements */
+    flex-wrap: wrap; /* allows the children elements to wrap onto multiple lines */
+    justify-content: space-around; /* distributes space around the children elements */
+  }
+  
+  .topic-box {
+    background-color: #f4f4f4; /* sets the background color of the topic boxes */
+    text-align: center;
+  }
+  
