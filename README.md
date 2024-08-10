@@ -36,4 +36,6 @@ This project serves as a prework guide for learning HTML, CSS, and JavaScript, w
 
 This prework study guide provides a foundation for understanding and applying basic HTML, CSS, and JavaScript concepts. It's an essential step for anyone looking to build and style web pages effectively.
 
+https://brockaltug.github.io/prework-study-guide/
+
 ### a prework guide for learning html
